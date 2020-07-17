@@ -1,4 +1,4 @@
-package com.jojoldu.book.dto;
+package com.jojoldu.book.web.dto;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
