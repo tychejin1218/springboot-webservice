@@ -1,0 +1,1 @@
+-- INSERT INTO POSTS (ID, TITLE, CONTENT, AUTHOR) VALUES (1, '제목_테스트_01', '내용_테스트_01', '작성자_테스트_01');
